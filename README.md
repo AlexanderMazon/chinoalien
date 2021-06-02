@@ -1,4 +1,4 @@
-- 👋 Hey que tal! Bienvenido a mi repositorio de proyectos :D
+
 Mi nombre es  Alex soy Un chico egresado como Ingeniero en Tecnologías de la información ,
 Apasionado por la búsqueda de nuevas  Tecnologías de innovación  
 con amplios conocimientos dentro de la siguientes  Areas : 
